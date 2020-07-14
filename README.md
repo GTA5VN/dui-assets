@@ -1,1 +1,1 @@
-# fivem-assets
+# dui-assets
